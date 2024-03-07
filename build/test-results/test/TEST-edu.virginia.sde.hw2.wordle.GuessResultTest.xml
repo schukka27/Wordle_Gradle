@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.virginia.sde.hw2.wordle.GuessResultTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-09-28T20:27:39" hostname="Saumils-MacBook-Air-2.local" time="0.007">
+  <properties/>
+  <testcase name="testGetLetterResults_Triple_Single_Letter()" classname="edu.virginia.sde.hw2.wordle.GuessResultTest" time="0.007"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
